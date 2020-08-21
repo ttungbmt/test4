@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sources":["../src/index.js"],"sourcesContent":["import L from 'leaflet'\r\n\r\nconsole.log(L, 1111)"],"names":["console","log","L"],"mappings":"8EAEAA,QAAQC,IAAIC,EAAG"}
